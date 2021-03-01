@@ -38,7 +38,10 @@ The platform helps users to move through the site and learn more about Delani's 
 |Message|Message from the user|
 
 ---
+##Here's a link to my deployed page
+https://natasha1594.github.io/Delani-studio/
 
+---
 # License and Copyright
 
 <span>&#169;</span>Copyright 2021 Natasha1594
